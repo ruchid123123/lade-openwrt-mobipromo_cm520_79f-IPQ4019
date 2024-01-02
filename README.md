@@ -10,7 +10,9 @@
 
 # [vmware16下载连接](https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.0.0-16894299.exe)
 
-## 激活码：ZF3R0-FHED2-M80TY-8QYGC-NPKYF
+## 激活码
+
+> ZF3R0-FHED2-M80TY-8QYGC-NPKYF
 
 # [ubuntu20.4ltsc下载链接](https://releases.ubuntu.com/focal/ubuntu-20.04.6-desktop-amd64.iso)
 
