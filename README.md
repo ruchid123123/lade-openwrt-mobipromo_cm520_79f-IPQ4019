@@ -20,9 +20,14 @@
 
 > https://releases.ubuntu.com/focal/ubuntu-20.04.6-desktop-amd64.iso
 
-### 4.
+### 4.lade代码源码
 
-* 最终实际上使用的是在实体机上安装mint linux系统进行编译。
+> https://github.com/coolsnowwolf/lede
+
+### 5.实际方案
+
+* 由于虚拟机无法运行，最终实际上使用的是在实体机上安装mint linux系统进行编译。
+* 
 
 ## 三、结果
 
