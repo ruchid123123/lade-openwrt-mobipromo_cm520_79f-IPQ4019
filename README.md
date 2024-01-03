@@ -1,4 +1,4 @@
-# lade-openwrt-mobipromo_cm520_79f-IPQ4019-编译
+# lade-openwrt-mobipromo_cm520_79f-IPQ4019
 
 ## 一、目的：
 
