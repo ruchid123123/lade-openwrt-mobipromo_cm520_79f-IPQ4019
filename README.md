@@ -1,4 +1,4 @@
-# lade-openwrt-星际宝盒-IPQ4019-编译
+# lade-openwrt-mobipromo_cm520_79f-IPQ4019-编译
 
 ## 一、目的：
 
